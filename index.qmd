@@ -4,6 +4,8 @@ title: "quarto-workshop"
 
 This is a Quarto website.
 
+This website was created by Gabriela Mata.
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
